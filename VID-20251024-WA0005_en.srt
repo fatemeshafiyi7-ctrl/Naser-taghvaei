@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:04,000
+He passed away due to cardiac arrest.
+
+2
+00:00:04,000 --> 00:00:11,000
+He had asked that a coffin be used for his burial.
+
+3
+00:00:11,000 --> 00:00:14,000
+Another part of his will was that if we wish...

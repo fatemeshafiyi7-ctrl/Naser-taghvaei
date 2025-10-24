@@ -1,0 +1,2 @@
+// Candle interaction
+document.addEventListener('DOMContentLoaded',()=>{const flame=document.getElementById('flame');const nameEl=document.getElementById('name');const wrap=document.getElementById('candleWrap');if(!wrap||!flame||!nameEl)return;const light=()=>{flame.style.opacity='1';nameEl.style.opacity='1';nameEl.style.filter='blur(0px)';};wrap.addEventListener('click',light,{once:true});wrap.addEventListener('touchstart',light,{once:true});});
